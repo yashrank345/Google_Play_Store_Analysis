@@ -50,6 +50,17 @@ The dataset used is from the [Google Play Store Apps dataset](https://www.kaggle
 
 
 <img width="1897" height="937" alt="image" src="https://github.com/user-attachments/assets/a7dd6d88-b903-4f99-9a8f-cc797f53f218" />
+
+
+---
+
+## Author
+**Created by @Yash**
+
+If you found this useful, consider leaving a ⭐ on the repository!
+
+---
+
   
    
 
