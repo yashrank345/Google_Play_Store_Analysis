@@ -21,8 +21,8 @@ This project analyzes app data from the Google Play Store to uncover insights in
 
 ## Technologies Used
 
-- Python 🐍
-- Jupyter Notebook 📒
+- Python 
+- Jupyter Notebook 
 - Pandas
 - NumPy
 - Seaborn
