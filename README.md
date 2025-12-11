@@ -1,14 +1,14 @@
-# 📊 Google Play Store Analytics
+# Google Play Store Analysis
 
 This project analyzes app data from the Google Play Store to uncover insights into app categories, ratings, installs, and user engagement. The goal is to help developers, marketers, and analysts better understand trends in the mobile app ecosystem.
 
-## 📁 Project Structure
+## Project Structure
 
 - `Google_Play_Store_Analytics.ipynb` — Jupyter Notebook containing data preprocessing, visualizations, and exploratory data analysis (EDA).
 - `datasets/` — Contains the cleaned Google Play Store dataset (if available).
 - `images/` — (Optional) For saving charts and visualizations.
 
-## 🚀 Features
+## Features
 
 - Data cleaning and preprocessing
 - Handling duplicates, missing values, and incorrect data types
@@ -19,7 +19,7 @@ This project analyzes app data from the Google Play Store to uncover insights in
   - Impact of app size and type (Free vs Paid)
   - Popularity of categories based on installs
 
-## 📌 Technologies Used
+## Technologies Used
 
 - Python 🐍
 - Jupyter Notebook 📒
@@ -28,20 +28,20 @@ This project analyzes app data from the Google Play Store to uncover insights in
 - Seaborn
 - Matplotlib
 
-## 📊 Sample Visualizations
+## Sample Visualizations
 
 > Replace the below with actual screenshots from your notebook if uploading to GitHub.
 
-- 📈 Rating Distribution by Category  
-- 🛠 App Type (Free vs Paid) Comparison  
-- 🔁 Correlation between Reviews and Installs  
-- 📦 Size vs Rating Analysis  
+- Rating Distribution by Category  
+- App Type (Free vs Paid) Comparison  
+- Correlation between Reviews and Installs  
+- Size vs Rating Analysis  
 
-## 📥 Dataset
+## Dataset
 
 The dataset used is from the [Google Play Store Apps dataset](https://www.kaggle.com/lava18/google-play-store-apps) available on Kaggle.
 
-## 📚 How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
